@@ -127,7 +127,7 @@ const archiveItems = [
     href: "/bitcoin-association-switzerland?month=03-2020",
     posts: [
       {
-        title: "Our Comment on "Designing a prudential treatment for cryptoassets" of the Basel Committee on Banking Supervision",
+        title: "Our Comment on \"Designing a prudential treatment for cryptoassets\" of the Basel Committee on Banking Supervision",
         date: "Mar 13, 2020",
         href: "/bitcoin-association-switzerland/our-comment-on-designing-a-prudential-treatment-for-cryptoassets-of-the-basel-committee-on-banking-supervision",
       },
